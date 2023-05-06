@@ -1,0 +1,8 @@
+Studeat Name Marks
+
+1) G.VIVEK    90
+2) M. TANUJ   95
+3) Toheed     92
+4) Tanish     97
+
+S) Harshith 75
